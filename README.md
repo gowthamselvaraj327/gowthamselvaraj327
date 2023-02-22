@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gowtham</h1>
+![logo](https://github.com/gowthamselvaraj327/gowthamselvaraj327/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+<h1 align="center">Hi 👋, I'm Gowtham Selvaraj 😎</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=320px>
