@@ -12,7 +12,7 @@
 
 - 💪🏼 Future Goals: **Learn more technologies - Never stop creating new ideas.**
 
-- 👨‍💻 All of my projects are available at [gowthamselvaraj.me](gowthamselvaraj.me)
+- 👨‍💻 All of my projects are available at [gowthamselvaraj.me](https://gowthamselvaraj.me/#/)
 
 - 📫 How to reach me **gowthamselvaraj327@gmail.com**
 
